@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="filmovi.xsl"?>
+
+<Filmovi>
+    <Film>
+        <Slika class="left" src="https://upload.wikimedia.org/wikipedia/hr/d/de/Movie_poster_the_shawshank_redemption.jpg" href="https://www.imdb.com/title/tt0111161/"></Slika>
+        <Naziv>Iskupljenje u Shawshanku</Naziv>
+        <Redatelj>Frank Darabont</Redatelj>
+        <GlavneUloge>Tim Robbinson, Morgan Freeman</GlavneUloge>
+        <Opis>Priča se vrti oko zatvorskog života Andyja Dufresnea, nakon što je osuđen za ubojstvo supruge i njezina ljubavnika.</Opis>
+    </Film>
+    <Film>
+        <Slika href="https://www.imdb.com/title/tt0068646/" src="https://upload.wikimedia.org/wikipedia/hr/a/a2/Kum1.jpg"></Slika>
+        <Naziv>Kum</Naziv>
+        <Redatelj>Francis Ford Coppola</Redatelj>
+        <GlavneUloge>Al Pacino, Marlon Brando, James Caan, Diane Keaton</GlavneUloge>
+        <Opis>Stariji patrijarh dinastije organiziranog kriminala prenosi kontrolu nad svojim tajnim carstvom na svog nevoljnog sina.</Opis>
+    </Film>
+    <Film>
+        <Slika href="https://www.imdb.com/title/tt0108052/?ref_=nv_sr_srsg_0" src="https://upload.wikimedia.org/wikipedia/hr/thumb/d/d7/Schindlers_list-1-.jpg/300px-Schindlers_list-1-.jpg"></Slika>
+        <Naziv>Schindlerova lista</Naziv>
+        <Redatelj>Steven Spielberg</Redatelj>
+        <GlavneUloge>Liam Neeson,Ben Kingsley</GlavneUloge>
+        <Opis>U Njemačko-okupiranoj Poljskoj tijekom Drugog svjetskog rata, industrijalac Oskar Schindler postupno postaje zabrinut za svoju židovsku radnu snagu nakon što je svjedočio njihovom progonu od strane nacista.</Opis>
+    </Film>
+        <Film>
+        <Slika href="https://www.imdb.com/title/tt0110912/?ref_=nv_sr_srsg_0" src="https://upload.wikimedia.org/wikipedia/hr/8/82/Pulp_Fiction_cover.jpg"></Slika>
+        <Naziv>Pakleni Šund</Naziv>
+        <Redatelj>Quentin Tarantino</Redatelj>
+        <GlavneUloge>John Travolta, Samuel L. Jackson, Uma Thurman, Bruce Willis</GlavneUloge>
+        <Opis>Život dvojice mafijaša, boksača, gangstera i njegove supruge, te par zalogajničkih bandita isprepliću se u četiri priče o nasilju i iskupljenju.</Opis>
+    </Film>
+        <Film>
+        <Slika href="https://www.imdb.com/title/tt0133093/?ref_=fn_al_tt_2" src="https://upload.wikimedia.org/wikipedia/hr/f/f1/Matrix_poster.jpg"></Slika>
+        <Naziv>Matrix</Naziv>
+        <Redatelj>Redatelj: Lana Wachovsky, Andy Wachovsky</Redatelj>
+        <GlavneUloge>Keanu Reeves, Laurence Fishburne</GlavneUloge>
+        <Opis>Kad lijepa neznanka odvede računalnog hakera Nea u zabranjeni podzemni svijet, otkrije šokantnu istinu - život koji poznaje složena je obmana zle cyber-inteligencije.</Opis>
+    </Film>
+        <Film>
+        <Slika href="https://www.imdb.com/title/tt0102926/?ref_=nv_sr_srsg_0" src="https://upload.wikimedia.org/wikipedia/hr/thumb/8/86/The_Silence_of_the_Lambs_poster.jpg/300px-The_Silence_of_the_Lambs_poster.jpg"></Slika>
+        <Naziv>Kad jaganjci utihnu</Naziv>
+        <Redatelj>Jonathan Demme</Redatelj>
+        <GlavneUloge>Anthony Hopkins, Jodie Foster</GlavneUloge>
+        <Opis> Clarice Starling, mlada agentica FBI-ja, poslana je zatvorenom Lecteru kako bi ga upitala za stručni savjet u vezi hvatanja serijskog ubojice, zvanog Buffalo Bill, koji otima žene i skida im kožu.</Opis>
+    </Film>
+        <Film>
+        <Slika href="https://www.imdb.com/title/tt0118799/?ref_=fn_al_tt_1" src="https://upload.wikimedia.org/wikipedia/hr/thumb/b/b4/Life_Is_Beautiful_film.jpg/300px-Life_Is_Beautiful_film.jpg"></Slika>
+        <Naziv>Život je lijep</Naziv>
+        <Redatelj>Roberto Benigni</Redatelj>
+        <GlavneUloge>Robero Benigni, Nicoletta Braschi</GlavneUloge>
+        <Opis>Radnja se vrti oko humorističnih zgoda veselog Židova Guida koji u 2. svjetskom ratu pokušava svojeg sina uvjeriti da je koncentracijski logor u kojem su zarobljeni samo igra.</Opis>
+    </Film>
+        <Film>
+        <Slika href="https://www.imdb.com/title/tt0081505/?ref_=nv_sr_srsg_0" src="https://upload.wikimedia.org/wikipedia/hr/1/1e/Shining-kubrik.jpg"></Slika>
+        <Naziv>Isijavanje</Naziv>
+        <Redatelj>Stanley Kubrick</Redatelj>
+        <GlavneUloge>Jack Nicholson, Shelly Duval, Danny Lloyd</GlavneUloge>
+        <Opis>Obitelj se zimi upućuje u izolirani hotel gdje zlokobna prisutnost utječe na oca u nasilju, dok njegov psihički sin vidi užasne slutnje iz prošlosti i budućnosti.</Opis>
+    </Film>
+        <Film>
+        <Slika href="https://www.imdb.com/title/tt0119217/?ref_=nv_sr_srsg_0" src="https://upload.wikimedia.org/wikipedia/hr/e/e7/Good_Will_Hunting.jpg"></Slika>
+        <Naziv>Dobri Will Hunting</Naziv>
+        <Redatelj>Gus Van Sant</Redatelj>
+        <GlavneUloge>Matt Damon, Robin Williams, Ben Affleck</GlavneUloge>
+        <Opis>Will Hunting, domar u M.I.T.-u, ima dar za matematiku, ali treba pomoć psihologa da pronađe smjer u svom životu.
+</Opis>
+    </Film>
+        <Film>
+        <Slika href="https://www.imdb.com/title/tt0180093/?ref_=nv_sr_srsg_0" src="https://upload.wikimedia.org/wikipedia/sh/9/92/Requiem_for_a_dream.jpg"></Slika>
+        <Naziv>Rekvijem za snove</Naziv>
+        <Redatelj>Darren Aronofosky</Redatelj>
+        <GlavneUloge>Ellen Burstyn, Jared Leto, Jennifer Connelly, Marlon Wayans</GlavneUloge>
+        <Opis>Utopije izazvane drogom četvero ljudi s Coney Islanda razbijaju se kad njihova ovisnost duboko zavlada.</Opis>
+    </Film>
+</Filmovi>
