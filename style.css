@@ -19,6 +19,27 @@ header h2{
 header form{
     text-align: center;
     display: inline-block;
+    margin-left: 33%;.wrapper{
+    max-width: 1000px;
+    margin: 0 auto;
+    position: relative;
+}
+html body{
+    margin: 0;
+    padding: 0;
+}
+header{
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    text-align: center;
+}
+header h2{
+    display: inline-block;
+}
+header form{
+    text-align: center;
+    display: inline-block;
     margin-left: 33%;
 }
 .left{
@@ -55,14 +76,38 @@ footer{
 footer p{
     margin-right: 20px;
 }
-@media only screen and (max-width: 1080px) {
-    body {
-      background-color: lightblue;     
-    }
+}
 .left{
-    display: block;
+    float: left;
+    width: 24%;
+    height: 200px;
+    margin:10px 0;
+    transition-property: width, height;
+}
+.left img{
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+    transition-property: width, height;
+    transition-duration: 2s;
+}
+.left img:hover{
+    width: 240px;
+    height: 240px;
 }
 .right{
+    float: left;
+    width: 24%;
     display: block;
+    height: 250px;
 }
+footer{
+    text-align: right;
+    display: inline-block;
+    width: 100%;
+    color: white;
+    background-color: rgb(0, 0, 0);
+}
+footer p{
+    margin-right: 20px;
 }
